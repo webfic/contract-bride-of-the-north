@@ -1,0 +1,20 @@
+type: location
+id: rose-manor
+name: 로제 백작저
+aliases:
+  - 백작저
+  - 로제 저택
+description:
+  - 제도 남쪽의 로제 백작가 저택으로, 겉은 화려하지만 빚 때문에 응접실의 은기와 그림이 하나씩 사라지고 있다.
+  - 아델라인의 방은 본관이 아니라 하인 동 쪽 복도 끝에 있다.
+characterIds:
+  - cecilia
+tags:
+  - 백작가
+  - 아델라인의 과거
+time: 아침
+weather: 진눈깨비
+senses:
+  - 식은 벽난로의 재 냄새와 오래된 장미 문양 벽지의 곰팡내
+  - 빚 독촉장을 구기는 종이 소리
+locationKind: place

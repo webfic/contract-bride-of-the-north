@@ -1,0 +1,20 @@
+type: location
+id: border-fortress
+name: 국경 요새
+aliases:
+  - 요새
+  - 국경 성벽
+description:
+  - 북부 국경을 지키는 발테인 군의 최전방 요새로, 검은 돌 성벽이 설원을 가로막고 서 있다.
+  - 봉화대와 무기고, 좁은 회랑이 얽혀 있어 습격이 벌어지면 퇴로가 쉽게 끊긴다.
+characterIds:
+  - roen
+tags:
+  - 국경
+  - 전장
+time: 새벽
+weather: 눈보라
+senses:
+  - 쇠와 가죽, 횃불 기름이 섞인 냄새
+  - 성벽을 때리는 바람과 병사들의 교대 구령
+locationKind: place

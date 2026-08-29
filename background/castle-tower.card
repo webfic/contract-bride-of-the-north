@@ -1,0 +1,19 @@
+type: location
+id: castle-tower
+name: 성탑 꼭대기
+aliases:
+  - 성탑
+  - 탑 위
+description:
+  - 발테인 성에서 가장 높은 탑의 꼭대기로, 성과 설원 전체가 한눈에 내려다보인다.
+  - 카이든이 발작을 숨기러 오르는 곳이자, 훗날 계약서가 태워지는 자리다.
+characterIds: []
+tags:
+  - 발테인 성
+  - 수미상관
+time: 깊은 밤
+weather: 별이 보이는 혹한
+senses:
+  - 얼굴을 베는 높은 곳의 바람
+  - 성 아래 등불이 눈 위에 번지는 흐린 빛
+locationKind: place
