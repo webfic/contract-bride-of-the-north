@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 아델라인의 힘으로 발작을 늦추는 첫 성공을 만들어 두 사람의 결속을 사건으로 증명한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 서약지에서 실이 오히려 사나워져 카이든이 위험해지고, 로엔은 실험 중단을 요구한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 아델라인이 실을 끊는 대신 매듭을 한 칸 늦추는 법을 찾아내고, 카이든의 손끝에 수년 만에 온기가 돈다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 실패의 초조함에서, 그의 손끝 온기를 되돌렸다는 벅찬 확신으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 매듭을 늦춘 손의 대가
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서약지 아래 얼어붙은 문서함 감촉
+  source:
+    origin: author
+    command: migrate 0.15

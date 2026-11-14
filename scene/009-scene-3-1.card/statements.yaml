@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 카이든의 발작을 목격시키고 아델라인의 힘이 들통나는 사건으로 1막의 균형을 깬다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 발작으로 얼어붙는 카이든을 두고 아델라인은 못 본 척 물러날지 금지된 힘을 드러낼지 갈린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 아델라인이 조여드는 실을 맨손으로 벌리자 발작이 멎고, 카이든이 '지금 무엇을 했느냐'고 묻는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 목격의 공포에서, 힘을 드러내고 만 자의 각오로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 실을 벌린 손끝의 동상 자국
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 발작이 멎은 최초의 밤
+  source:
+    origin: author
+    command: migrate 0.15

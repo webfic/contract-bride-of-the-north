@@ -1,0 +1,40 @@
+- facet: description
+  value: 엘하르트 황궁의 알현실로, 금박 기둥과 대리석 바닥이 북부의 성과 대조되는 과시의 공간이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 옥좌 뒤편 벽화에 건국 전쟁이 그려져 있으나 발테인 가문의 자리는 덧칠로 지워져 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 황궁
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 궁정 음모
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 정오
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 실내, 남쪽의 맑은 겨울
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 향유와 밀랍이 섞인 무겁고 달큰한 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 대리석 위를 걷는 구두 소리와 낮게 깔리는 궁정의 속삭임
+  source:
+    origin: author
+    command: migrate 0.15

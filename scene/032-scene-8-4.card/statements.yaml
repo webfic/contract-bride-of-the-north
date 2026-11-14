@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 계약서 소각과 재맹세로 관계를 진심으로 완결하고 수미상관을 닫는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 계약이 사라지면 두 사람을 묶는 문서상의 이유도 사라지기에, 태우는 손은 각자의 대답을 요구받는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 재가 흩어진 자리에서 두 사람의 심장 사이에 강요된 은빛이 아닌, 스스로 맺은 금빛 실이 새로 이어진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 만료일의 불안에서, 조항 없이 서로를 택한 완전한 진심으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 스스로 맺은 금빛 실
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 봄을 맞는 북부의 성
+  source:
+    origin: author
+    command: migrate 0.15

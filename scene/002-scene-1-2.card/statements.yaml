@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 계약 결혼의 조건을 제시하고 아델라인이 협상 상대로 서는 첫 장면을 만든다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 세실리아는 혼사의 격을 따지며 판을 흔들고, 아델라인은 빚 변제 조건을 문서로 못박으려 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 로엔이 '대공은 신부가 아니라 계약 상대를 찾는다'며 서명란이 두 개인 청약서를 내민다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 팔려 간다는 수치에서, 조건을 읽고 고를 수 있는 계약 당사자라는 긴장으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서명란이 둘인 청약서
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 로엔이 훑어본 아델라인의 손
+  source:
+    origin: author
+    command: migrate 0.15

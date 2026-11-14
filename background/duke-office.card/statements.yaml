@@ -1,0 +1,40 @@
+- facet: description
+  value: 카이든이 국경 군무와 영지 문서를 처리하는 집무실로, 장식 없는 책상과 지도가 전부인 방이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 계약서 원본이 보관된 철제 문서함이 책상 곁에 있고, 창은 설원 쪽으로 나 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 계약
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 밤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 실내, 창밖은 맑은 한기
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 잉크와 봉랍, 차게 식은 차 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 서류 넘기는 소리와 벽시계의 초침 소리
+  source:
+    origin: author
+    command: migrate 0.15

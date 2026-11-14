@@ -1,0 +1,46 @@
+- facet: description
+  value: 건국 전쟁이 끝난 첫 겨울, 황실이 발테인 초대 대공에게 공로 봉인의 맹세를 강요한 시점이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 이 맹세가 왜곡되어 발테인 가문의 겨울 저주가 되었고, 기록은 황실 금고와 봉인실에만 남았다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 과거
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 저주의 기원
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 약 200년 전 겨울
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 대설
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 서약지에 꽂힌 검 위로 쌓이던 눈의 무게
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 맹세의 문자가 얼어붙으며 내던 유리 갈라지는 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 저주의 기원
+  value: 건국 첫 겨울 황실이 발테인의 건국 공로를 지우려 충성 서약을 저주로 뒤틀었고, 문서 원본은 황실 금고에 보관되었다
+  source:
+    origin: author
+    command: migrate 0.15

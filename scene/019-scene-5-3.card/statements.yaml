@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 적의 목적을 드러내고 첫 맹세의 문서가 황실 금고에 있다는 단서를 확보한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 비앙카는 조사 중단과 이혼을 대가로 로제가의 복권을 제안하고, 아델라인의 과거와 힘을 지렛대로 쓴다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 협박 중 비앙카의 실이 황궁 금고 방향으로 곤두서며, 감춰야 할 문서의 위치를 스스로 알려 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 홀로 선 압박감에서, 적의 두려움이 가리키는 곳을 읽어 낸 승기로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 금고 방향으로 곤두선 실
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 로제가 복권이라는 미끼
+  source:
+    origin: author
+    command: migrate 0.15

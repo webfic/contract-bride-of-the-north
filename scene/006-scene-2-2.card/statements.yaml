@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 성 사람들의 냉대와 그레이엄의 등장을 통해 아델라인이 설 자리를 규정한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 하인들은 계약 신부를 스쳐 갈 손님으로 대하고, 아델라인은 안주인의 권한을 어디까지 요구할지 시험받는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 그레이엄이 홀로 남아 '이 홀이 언제부터 추워졌는지 아느냐'고 아델라인에게 먼저 묻는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 환영받지 못하는 자의 위축에서, 자기 역할을 계약 조항으로 규정해 내는 오기로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 온기가 머물지 않는 홀
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 그레이엄의 시험하는 질문
+  source:
+    origin: author
+    command: migrate 0.15

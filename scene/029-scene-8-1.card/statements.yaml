@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 결전의 판을 세우고 비앙카가 저주 폭주를 무기로 삼는 위협을 드러낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 원본을 서약지 밖에서 태우면 저주가 폭주해 북부가 얼어붙기에, 발테인 군은 칼을 뽑고도 진격하지 못한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 비앙카가 원본의 실을 미리 제 심장에 옭아 두었음이 보여, 그녀를 베는 것조차 폭주의 방아쇠임이 드러난다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 결전의 결기에서, 칼로는 끝낼 수 없는 싸움임을 읽어 낸 전율로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 황녀의 심장에 옭힌 원본의 실
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서약지 돌기둥의 공명
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 제7항의 무게를 생활의 규칙으로 체감시키고 서재를 조사 거점으로 세운다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 묻고 싶은 것투성이인 성의 규칙 앞에서 아델라인은 제7항에 걸리지 않을 질문의 경계를 더듬는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서가 안쪽의 잠긴 서랍장에 대해서만 그레이엄이 '제 대에는 열 수 없습니다'라고 답을 끊는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 규칙에 눌린 답답함에서, 물을 수 없다면 읽어내겠다는 결심으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 그레이엄의 잠긴 서랍
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 선대 대공비의 빈 서재
+  source:
+    origin: author
+    command: migrate 0.15

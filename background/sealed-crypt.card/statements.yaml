@@ -1,0 +1,46 @@
+- facet: description
+  value: 발테인 성 지하 깊은 곳의 봉인실로, 초대 대공의 석관과 첫 맹세의 의식 흔적이 남아 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 벽과 바닥에 새겨진 옛 서약 문자가 저주의 실과 같은 은빛으로 희미하게 빛난다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 저주의 근원
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 시간을 알 수 없는 지하
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 실내, 공기가 멎어 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 젖은 돌과 오래된 밀랍 봉인의 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 발소리조차 삼키는 두꺼운 정적
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 서약 문자
+  value: 봉인실 벽의 옛 서약 문자는 실을 보는 자에게만 은빛으로 읽히며, 성 안의 모든 저주의 실이 이곳으로 모인다
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,46 @@
+- facet: description
+  value: 발테인 성과 국경 사이에 펼쳐진 광대한 눈벌판으로, 지평선까지 흰빛 외에는 아무것도 없다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 첫 맹세가 맺어진 옛 서약지의 돌기둥이 눈에 반쯤 묻힌 채 서 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 북부
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 야외
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 한낮
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 맑은 혹한
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 숨을 들이쉴 때마다 코끝이 어는 마른 냉기
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 바람이 눈가루를 쓸어 가는 낮고 긴 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 서약지 규칙
+  value: 설원의 옛 서약지는 첫 맹세가 맺어진 자리로, 이곳에서만 맹세를 되묻거나 되묶을 수 있고 원본을 밖에서 태우면 저주가 폭주한다
+  source:
+    origin: author
+    command: migrate 0.15

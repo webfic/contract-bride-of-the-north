@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 카이든의 과거를 열어 거래 관계에 첫 신뢰의 결을 넣는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 카이든은 어머니와 온실의 기억을 꺼내면서도 감정이 얼어 가는 자신을 드러내기를 저어한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 겨울장미가 선대 대공비가 아들의 저주를 나눠 받으려 실을 옮겨 둔 그릇임을 아델라인이 읽어 낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 조사 상대를 향한 동정에서, 저주 곁에서 버텨 온 사람에 대한 존중으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 장미에 옮겨 묶인 실 매듭
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 어머니의 마지막 겨울 이야기
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 남부와 단절되는 여정을 통해 계약 부부의 첫 거리감과 북부의 규칙을 보여 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 마차 안의 침묵 속에서 아델라인은 제7항 때문에 실에 대해 물을 수 없고, 카이든은 곁을 주지 않는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 설원의 낡은 돌기둥을 지날 때 카이든의 실이 팽팽해지고, 그가 처음으로 마차를 세운다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 낯선 땅에 대한 위축에서, 실이 반응한 장소를 기억해 두는 관찰자의 침착으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 눈에 묻힌 옛 서약지 돌기둥
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 국경의 검은 요새 실루엣
+  source:
+    origin: author
+    command: migrate 0.15

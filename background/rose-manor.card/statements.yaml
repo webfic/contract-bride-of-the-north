@@ -1,0 +1,40 @@
+- facet: description
+  value: 제도 남쪽의 로제 백작가 저택으로, 겉은 화려하지만 빚 때문에 응접실의 은기와 그림이 하나씩 사라지고 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 아델라인의 방은 본관이 아니라 하인 동 쪽 복도 끝에 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 백작가
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 아델라인의 과거
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 아침
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 진눈깨비
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 식은 벽난로의 재 냄새와 오래된 장미 문양 벽지의 곰팡내
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 빚 독촉장을 구기는 종이 소리
+  source:
+    origin: author
+    command: migrate 0.15

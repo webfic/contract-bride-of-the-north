@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 독대의 정보를 공유하고 계약 밖의 사적 시간으로 신뢰의 온도를 올린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 아델라인은 로제가 복권 제안을 털어놓을지 망설이고, 카이든은 황궁에서 지키지 못했다는 자책을 감춘다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 카이든이 데운 포도주를 건네며 '계약이 아니라 내가 궁금해서 묻는다'고 처음 계약 밖의 질문을 던진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 정보를 저울질하는 동맹의 계산에서, 계약 밖 질문을 받은 순간의 온기로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 계약 밖에서 건넨 첫 질문
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 장터 그늘의 낯선 미행자
+  source:
+    origin: author
+    command: migrate 0.15

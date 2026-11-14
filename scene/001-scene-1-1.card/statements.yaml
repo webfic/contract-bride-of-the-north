@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 아델라인의 처지와 가문의 빚을 보여 주고, 그녀가 담보로 지목되는 판을 깐다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 차압 기한 앞에서 가문은 해법 대신 희생양을 찾고, 세실리아는 아델라인을 지목한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 백작이 북부에서 온 밀서를 꺼내며 '너를 원한다는 곳이 있다'고 아델라인에게 말한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 익숙한 체념에서, 자신이 거래 물목이 되었다는 서늘한 자각으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 어머니가 남긴 은실 반지
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 장부 끝의 북부행 기록
+  source:
+    origin: author
+    command: migrate 0.15

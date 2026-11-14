@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 북부의 괴물 소문의 실체를 수집해 아델라인이 눈이 아닌 근거로 결단하게 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 상인들의 소문은 대공을 괴물로 그리는데, 로엔의 말과 표정은 소문과 어긋난다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 북부 노파가 '대공가의 겨울은 벌이 아니라 맹세'라 중얼거리고, 로엔의 낯빛이 굳는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 소문에 대한 공포에서, 소문 뒤에 감춰진 것을 읽어내려는 호기심으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 벌이 아니라 맹세라는 말
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 겨울마다 닫히는 성문 소문
+  source:
+    origin: author
+    command: migrate 0.15

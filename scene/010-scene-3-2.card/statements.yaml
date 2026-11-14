@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 내침 대신 '저주 조사 의뢰'라는 부속 계약으로 관계를 경계에서 거래로 전환한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 아델라인은 이단 고발을 각오하고, 카이든은 비밀 유지와 조사 사이에서 처분을 저울질한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 카이든이 제7항의 예외 조항을 직접 써넣으며 '저주에 한해 서로 물을 수 있다'는 부속 계약을 제안한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 처분을 기다리는 공포에서, 대등한 거래 상대가 되었다는 떨리는 안도로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 제7항 아래 덧쓴 예외 조항
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 그레이엄이 내민 낡은 열쇠 꾸러미
+  source:
+    origin: author
+    command: migrate 0.15

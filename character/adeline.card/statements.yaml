@@ -1,0 +1,80 @@
+- facet: description
+  value: 로제 백작가의 서녀로 태어나 본가의 그늘에서 장부와 서고를 지키며 자랐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 가문의 빚을 대신 갚는 조건으로 북부대공 카이든과 1년 계약 결혼을 맺는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 실을 읽는 힘은 제국에서 이단으로 몰리는 금지된 힘이라 누구에게도 말한 적이 없다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 사물에 깃든 저주와 맹세를 은빛 실처럼 '본다'는 사실을 숨긴다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 무시당하는 데 익숙해 먼저 기대하지 않는 버릇이 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 문서를 읽을 때 조항의 빈틈부터 찾는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 조항과 근거를 들어 또박또박 말하고, 감정이 흔들릴수록 문장이 짧아진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 상대를 부를 때 끝까지 존칭을 지키다가 진심이 새는 순간에만 호칭이 무너진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 누구의 담보도 아닌, 자기 이름으로 서명하는 삶을 갖고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 계약서 너머에서 처음 본 저주의 실이 무엇인지 끝까지 읽어내고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 시점인물, 금지된 힘, 관찰력
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 금지된 힘
+  value: 사물과 사람에 깃든 저주·맹세를 은빛 실로 보고, 실의 매듭을 늦추거나 되묶을 수 있으나 끊으면 반동한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 힘의 대가
+  value: 실을 다룰 때마다 손끝이 얼고, 힘의 사용이 알려지면 황실 종교청의 이단 지정 사유가 된다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 계약 결혼 사유
+  value: 로제 백작가의 빚 전액을 발테인 대공가가 대신 갚는 조건으로 1년 계약 결혼에 서명했다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 계약서 제7항
+  value: 계약서 제7항은 '서로의 비밀을 묻지 않는다'로, 3장에서 저주 조사에 한한 예외가 덧붙고 7장 결전 전야에 합의로 폐지된다
+  source:
+    origin: author
+    command: migrate 0.15

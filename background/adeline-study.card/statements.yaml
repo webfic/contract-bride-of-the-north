@@ -1,0 +1,40 @@
+- facet: description
+  value: 선대 대공비가 쓰던 작은 서재로, 계약 결혼 뒤 아델라인에게 배정되어 그녀의 조사 거점이 된다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 벽면 서가에 발테인 가문의 연대기와 집사들의 장부가 꽂혀 있고, 안쪽에 그레이엄이 잠가 둔 서랍장이 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 사적 공간
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 밤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 실내, 창밖은 눈보라
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 오래된 종이와 촛농 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 벽난로 장작이 무너지는 작은 소리
+  source:
+    origin: author
+    command: migrate 0.15

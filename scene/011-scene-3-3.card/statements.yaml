@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 저주의 규칙성을 기록으로 세우고 잠긴 서랍이 감춘 층위를 드러낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 일지의 발작 주기가 어긋나는 해들이 있고, 그 해의 기록만 연대기에서 찢겨 나가 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 찢긴 해들이 모두 황실 대관식 해와 겹치며, 그레이엄이 잠긴 서랍을 처음으로 곁눈질한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 자료 앞의 의욕에서, 기록을 찢은 손이 성 안이 아니라 황실 쪽임을 짐작한 서늘함으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 대관식 해마다 찢긴 기록
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서랍을 곁눈질한 그레이엄
+  source:
+    origin: author
+    command: migrate 0.15

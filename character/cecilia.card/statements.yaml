@@ -1,0 +1,52 @@
+- facet: description
+  value: 로제 백작가의 적녀로, 가문의 빚을 아델라인의 계약 결혼으로 떠넘긴 장본인이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 아델라인이 북부에서 자리를 잡자 질투로 북부까지 찾아와 이간을 놓는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 3막에서 가문의 몰락과 함께 자신이 밀어낸 언니 앞에 서게 된다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 아델라인을 밀어내는 것으로 자기 자리를 확인해 온 습관이 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 궁지에 몰리면 거짓과 눈물을 같은 얼굴로 쓴다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 높고 빠른 말씨로 상대의 약점을 먼저 찌른다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 아쉬울 때만 '언니'라는 호칭을 꺼낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 서녀인 언니보다 자신이 귀하다는 것을 증명받고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 이복 여동생, 이간
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 공모의 대가
+  value: 아델라인을 계약 결혼의 담보로 밀어냈고 비앙카의 이간에 가담한 대가로 3막에서 가문의 몰락과 함께 죄를 진술하게 된다
+  source:
+    origin: author
+    command: migrate 0.15

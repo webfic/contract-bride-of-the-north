@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 부부 연기 속 호흡을 통해 거래 관계의 실효를 확인하고 외부의 시선을 등장시킨다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 귀족들은 남부 출신 서녀 대공비를 떠보고, 아델라인은 홀 전체에 얽힌 실 때문에 집중이 흔들린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 홀의 실이 전부 지하 방향 한 점으로 모이는 것을 보고, 카이든이 그녀의 흔들림을 알아채 자연스럽게 감싼다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 연기하는 부부의 어색함에서, 서로의 빈틈을 메워 준 첫 합의 감각으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 지하로 모이는 실의 다발
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 황실 사절이 남긴 초대의 언질
+  source:
+    origin: author
+    command: migrate 0.15

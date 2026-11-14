@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 세실리아의 이간으로 쌓아 온 신뢰에 첫 균열을 내고 비앙카의 손이 닿았음을 심는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 세실리아는 '대공이 계약 만료 후 남부 재혼을 알아본다'는 말을 전하고, 아델라인은 출처를 캐며 흔들린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 세실리아의 소맷단에서 황실 문장의 검은 실이 보여, 이간의 배후가 비앙카임이 드러난다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 쌓아 온 신뢰의 안정에서, 흔들린 자신에 대한 부끄러움과 배후를 짚은 경계로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 소맷단의 황실 검은 실
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 재혼 소문이라는 독
+  source:
+    origin: author
+    command: migrate 0.15

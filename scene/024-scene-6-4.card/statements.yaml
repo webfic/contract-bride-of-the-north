@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 카이든이 계약 밖의 이유로 아델라인을 지키게 하여 관계를 진심의 문턱까지 민다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 발작이 겹친 카이든은 싸울수록 심장이 얼고, 아델라인은 자신이 표적임을 알기에 투항을 저울질한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 쓰러지는 카이든이 '계약 때문이 아니다'라 말하며 그녀를 감싸고, 아델라인은 그의 실을 늦춰 발작을 버텨 낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 표적이 된 죄책감에서, 계약이라는 말로는 덮을 수 없는 마음의 자각으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 계약 때문이 아니라는 말
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 얼어붙은 칼자국의 흉터
+  source:
+    origin: author
+    command: migrate 0.15

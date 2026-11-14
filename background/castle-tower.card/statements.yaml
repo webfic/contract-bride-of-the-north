@@ -1,0 +1,40 @@
+- facet: description
+  value: 발테인 성에서 가장 높은 탑의 꼭대기로, 성과 설원 전체가 한눈에 내려다보인다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 카이든이 발작을 숨기러 오르는 곳이자, 훗날 계약서가 태워지는 자리다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 수미상관
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 깊은 밤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 별이 보이는 혹한
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 얼굴을 베는 높은 곳의 바람
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 성 아래 등불이 눈 위에 번지는 흐린 빛
+  source:
+    origin: author
+    command: migrate 0.15

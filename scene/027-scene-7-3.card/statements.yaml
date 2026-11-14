@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 비앙카의 마지막 수인 이단 선고를 터뜨려 3막 결전의 판을 뒤집는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 사본만으로는 황실의 죄를 입증할 수 없고, 비앙카는 준비해 둔 증인들로 역공을 편다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 비앙카가 아델라인을 이단으로 선고하게 하고 원본 문서를 태우겠다 선언하며 북부로 군을 돌린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 진실이 이길 것이라는 기대에서, 법과 궁정이 적의 무기임을 확인한 각성으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 태워지지 않은 원본의 행방
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 설원으로 돌린 황녀의 군
+  source:
+    origin: author
+    command: migrate 0.15

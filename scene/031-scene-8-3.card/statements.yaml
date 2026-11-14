@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 겨울장미 복선을 회수하고 세실리아의 대가를 처리해 과거와의 셈을 끝낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 세실리아는 공모 연루로 몰락한 가문의 구명을 빌고, 아델라인은 용서와 책임의 경계를 스스로 정해야 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 아델라인은 구명 대신 세실리아 자신의 이름으로 죄를 진술할 기회만을 주고, 시든 장미 아래 새 싹을 보여 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 오래된 원망의 되새김에서, 지난 겨울을 제 손으로 닫는 홀가분함으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 시든 장미 아래의 새 싹
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 제 이름으로 하는 진술
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 두 주인공의 첫 대면과 계약 성립, 그리고 아델라인이 저주의 실을 처음 보게 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 세실리아가 서명 직전까지 아델라인의 흠을 들추고, 카이든은 조항 수정 요구를 견제한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서명하는 순간 계약서 위로 은빛 실이 감기는 것이 보이고, 그 실은 카이든의 심장께로 이어져 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 계약 상대를 향한 경계에서, 그의 몸에 감긴 실을 본 순간의 전율로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 계약서 제7항
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 심장께로 이어진 은빛 실
+  source:
+    origin: author
+    command: migrate 0.15

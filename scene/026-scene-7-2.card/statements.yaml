@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 첫 맹세의 진실을 공개해 저주의 기원을 확정하고 3막의 대의를 세운다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 의식은 묻는 자의 심장을 담보로 요구해, 발작 절기의 카이든에게 치명적일 수 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 되살아난 첫 맹세의 기억은 황실이 건국 공로를 지우려 충성 서약을 저주로 뒤틀었음을 보여 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 의식의 두려움에서, 가문이 지은 죄가 없었다는 해방과 황실을 향한 결의로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 저주로 뒤틀린 충성 서약
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 의식이 남긴 심장의 금
+  source:
+    origin: author
+    command: migrate 0.15

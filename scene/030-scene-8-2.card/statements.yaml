@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 저주 해제와 비앙카의 몰락을 한 매듭에서 끝내 결전을 매듭짓는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 매듭을 풀려면 아델라인의 손이 저주 전체의 한기를 지나야 하고, 카이든은 그 대가를 대신 지려 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 아델라인이 매듭을 끊지 않고 첫 맹세를 '충성이 아닌 상호 서약'으로 되묶어, 저주와 비앙카의 옭아맴이 함께 풀린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 손이 얼어붙는 공포에서, 함께 버텨 준 심장의 온기로 매듭을 되묶는 확신으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 되묶인 첫 맹세의 새 매듭
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 눈 속에 주저앉은 황녀
+  source:
+    origin: author
+    command: migrate 0.15

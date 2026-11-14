@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 봉인실을 개방해 조사의 무대를 지하로 옮기고 저주의 물리적 근원을 드러낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 봉인을 뜯는 것은 가문 금기라 그레이엄이 마지막까지 반대하고, 문이 열리자 카이든의 실이 조여든다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 봉인실 벽의 옛 서약 문자가 아델라인이 보는 실과 같은 은빛으로 빛나며 그녀에게만 읽힌다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 금기를 깨는 긴장에서, 자신만 읽을 수 있는 문자를 마주한 소명감으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 아델라인에게만 읽히는 서약 문자
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 석관 위에 놓인 부러진 검
+  source:
+    origin: author
+    command: migrate 0.15

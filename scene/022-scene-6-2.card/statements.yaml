@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 제7항의 원래 조항이 이제 두 사람의 발목을 잡는 역전을 보여 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 아델라인은 소문의 진위를 물을 권리가 없고, 카이든은 그녀의 냉랭함의 이유를 물을 권리가 없다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 어긋난 침묵 끝에 카이든이 문서함에서 계약서를 꺼내 만료 조항을 펼치다가, 아델라인이 자리를 뜬다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 확인하고 싶은 조바심에서, 묻지 못하는 계약의 벽에 부딪힌 쓸쓸함으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 펼쳐진 채 남은 만료 조항
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서로 어긋난 두 침묵
+  source:
+    origin: author
+    command: migrate 0.15

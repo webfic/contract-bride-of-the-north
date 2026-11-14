@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 잠긴 서랍 복선을 회수해 첫 맹세의 사본 단서와 봉인 의식의 절차를 확보한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 서랍을 여는 것은 집사가의 침묵 서약을 깨는 일이라, 그레이엄 자신의 실이 그의 목을 조여 온다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서랍 속 선대 기록에 첫 맹세의 사본 조각과 함께 '의식은 물었던 자만이 되물을 수 있다'는 구절이 나온다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 증거 앞의 확신에서, 노집사의 목숨 건 결단에 대한 숙연함으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 되물을 수 있다는 구절
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 그레이엄의 목을 조이는 실
+  source:
+    origin: author
+    command: migrate 0.15

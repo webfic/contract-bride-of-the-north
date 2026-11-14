@@ -1,0 +1,46 @@
+- facet: description
+  value: 발테인 성 남쪽 날개에 붙은 유리 온실로, 선대 대공비가 지은 뒤 오랫동안 잠겨 있었다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 한겨울에도 시들지 않는 겨울장미 한 그루가 온실 한가운데에 홀로 피어 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 복선
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 오후
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 유리 너머로 눈
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 차가운 유리 냄새에 섞인 흙과 장미 향
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 유리 지붕에 눈이 내려앉는 희미한 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 겨울장미
+  value: 시들지 않는 겨울장미는 선대 대공비가 아들의 저주를 나눠 받으려 실을 옮겨 둔 그릇으로, 저주가 풀리면 비로소 시든다
+  source:
+    origin: author
+    command: migrate 0.15

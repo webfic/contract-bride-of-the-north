@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 습격 사건으로 외부 음모를 물리적 위협으로 격상시키고 세 사람을 사지에 놓는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 습격대는 군대가 아니라 요새 구조를 아는 소수 정예로, 노림수가 방어선이 아니라 아델라인임이 드러난다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 습격대의 병장기에서 황실 무기고의 실이 읽히고, 그들이 '실을 보는 여자'를 산 채로 노린다는 게 밝혀진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 전장의 공포에서, 이 칼끝이 처음부터 자신을 향했다는 차가운 직시로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 황실 무기고의 실
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 산 채로 잡으라는 명령
+  source:
+    origin: author
+    command: migrate 0.15

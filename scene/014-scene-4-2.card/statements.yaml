@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 저주가 벌이 아니라 쌍무 계약임을 확정해 조사의 프레임을 뒤집는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 해독이 진행될수록 저주의 구조가 발테인의 죄를 전제하지 않아, 카이든이 믿어 온 가문의 역사와 충돌한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 실의 매듭이 일방의 형벌이 아닌 두 인장의 계약 구조이며, 한쪽 인장이 황실 문장임이 드러난다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 해독의 몰입에서, 저주를 대물림시킨 상대가 황실임을 확인한 분노로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 황실 문장의 인장 매듭
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 시장 노파의 맹세라는 말
+  source:
+    origin: author
+    command: migrate 0.15

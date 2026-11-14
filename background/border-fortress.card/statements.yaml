@@ -1,0 +1,40 @@
+- facet: description
+  value: 북부 국경을 지키는 발테인 군의 최전방 요새로, 검은 돌 성벽이 설원을 가로막고 서 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 봉화대와 무기고, 좁은 회랑이 얽혀 있어 습격이 벌어지면 퇴로가 쉽게 끊긴다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 국경
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 전장
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 새벽
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 눈보라
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 쇠와 가죽, 횃불 기름이 섞인 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 성벽을 때리는 바람과 병사들의 교대 구령
+  source:
+    origin: author
+    command: migrate 0.15

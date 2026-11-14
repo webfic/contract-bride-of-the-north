@@ -1,0 +1,40 @@
+- facet: description
+  value: 발테인 성의 심장부인 석조 대연회장으로, 저주가 깊어진 뒤로는 난로를 피워도 온기가 오래 머물지 않는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 높은 천장에 건국 전쟁의 낡은 군기가 걸려 있고, 긴 식탁 하나가 홀의 절반을 차지한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 발테인 성
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 공적 공간
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 저녁
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 실내, 바깥은 눈
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 돌바닥을 타고 올라오는 한기와 난로의 장작 타는 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 높은 천장에 부딪혀 되돌아오는 발소리의 울림
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,52 @@
+- facet: description
+  value: 발테인 성의 살림과 문서를 총괄하는 늙은 집사로, 저주의 역사를 가장 가까이서 지켜봤다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 서재 깊은 곳의 잠긴 서랍에 선대 집사들이 남긴 기록을 보관하고 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 새 대공비가 저주를 '읽는' 사람임을 가장 먼저 알아차린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 3대째 발테인 가문을 섬기며 저주의 발작 일지를 몰래 적어 왔다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 판단을 말하지 않고 사실만 건네는 방식으로 사람을 시험한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 격식을 갖춘 긴 문장으로 말하되 핵심은 마지막 한 마디에 놓는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 대답 대신 오래된 일화를 꺼내는 버릇이 있다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 자신의 대에서 저주의 기록이 끝맺어지는 것을 보고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 기록자, 관찰자
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 침묵의 서약
+  value: 집사가는 대공가에 침묵의 서약으로 묶여 있으며, 3대에 걸친 저주 기록을 서재의 잠긴 서랍에 봉해 왔다
+  source:
+    origin: author
+    command: migrate 0.15

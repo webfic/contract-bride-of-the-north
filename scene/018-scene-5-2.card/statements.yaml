@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 비앙카를 등장시켜 궁정의 규칙으로 아델라인을 시험하는 적대의 첫 합을 연다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 비앙카는 서녀 출신 대공비의 예법과 혼인의 진위를 공개적으로 시험하고, 카이든의 개입은 오히려 빌미가 된다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 아델라인이 예법 문답을 계약 조항 읽듯 받아넘기자, 비앙카가 웃으며 '실을 보는 눈'을 스치듯 언급한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 궁정 앞의 위축에서, 적이 자신의 힘을 이미 의심한다는 차가운 경계로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 비앙카의 실을 보는 눈 언급
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 덧칠로 지워진 건국 벽화
+  source:
+    origin: author
+    command: migrate 0.15

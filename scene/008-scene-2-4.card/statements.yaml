@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 겨울장미 복선을 심고 계약 부부의 첫 사적 대화로 경계의 틈을 낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 카이든은 온실이 왜 열려 있었는지 추궁하고, 아델라인은 장미에 감긴 실에 대해 물을 수 없어 말을 고른다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 시들지 않는 겨울장미에 카이든의 심장과 같은 은빛 실이 감겨 있는 것이 보인다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 침입자가 된 무안함에서, 이 성의 저주가 장미와 이어져 있다는 확신으로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 온실의 시들지 않는 겨울장미
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 선대 대공비가 지은 온실
+  source:
+    origin: author
+    command: migrate 0.15
